@@ -4,7 +4,11 @@
     "details": [
       {
         "appID": "BSYTPR8ZFD.io.neuromobile.cbre.base",
-        "paths": ["test"]
+        "paths": ["pocbatman"]
+      },
+      {
+        "appID": "BSYTPR8ZFD.es.compraactiva.cbre.h2o",
+        "paths": ["cid2"]
       }
     ]
   }

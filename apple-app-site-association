@@ -1,13 +1,14 @@
-
 {
   "applinks": {
     "apps": [],
     "details": [
       {
-        "appID": "BSYTPR8ZFD.io.neuromobile.cbre.base",
-        "paths": [
-          "*"
-        ]
+        "appID": "BSYTPR8ZFD.es.compraactiva.cbre.h2o",
+        "paths": ["2"]
+      },
+      {
+        "appID": "BSYTPR8ZFD.es.DMApp",
+        "paths": ["3"]
       }
     ]
   }

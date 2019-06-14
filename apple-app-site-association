@@ -5,10 +5,6 @@
       {
         "appID": "BSYTPR8ZFD.es.compraactiva.cbre.h2o",
         "paths": ["*"]
-      },
-      {
-        "appID": "BSYTPR8ZFD.es.DMApp",
-        "paths": ["cid3"]
       }
     ]
   }

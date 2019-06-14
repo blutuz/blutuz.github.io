@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "BSYTPR8ZFD.es.compraactiva.cbre.h2o",
-        "paths": ["/cid2/*"]
+        "paths": ["*"]
       },
       {
         "appID": "BSYTPR8ZFD.es.DMApp",
